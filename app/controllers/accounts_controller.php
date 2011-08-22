@@ -1,4 +1,6 @@
 <?php
+#Testing Git Integration
+
 class AccountsController extends AppController {
 	var $helpers = array ('Html','Form');
 	var $name = 'Accounts';
