@@ -4,7 +4,7 @@ class AppController extends Controller {
     var $components = array('Acl', 'Auth', 'Session');
     var $helpers = array('Html', 'Form', 'Session','Access');
 
-    function beforeFilter() {
+    function beforeFilter() {   
 
         $this->Auth->allowedActions = array('display');
 
@@ -210,4 +210,3 @@ class AppController extends Controller {
 
 }
 ?>
-    
