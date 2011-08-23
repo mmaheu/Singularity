@@ -1,0 +1,739 @@
+2011-08-22 10:08:38 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  invalid input syntax for integer: "img"
+LINE 1: ... "accounts" AS "Account"   WHERE "Account"."id" = 'img'    L...
+                                                             ^ in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-08-22 10:08:38 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "img"
+LINE 1: ... "accounts" AS "Account"   WHERE "Account"."id" = 'img'    L...
+                                                             ^</span> in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-22 10:08:42 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  invalid input syntax for integer: "img"
+LINE 1: ... "accounts" AS "Account"   WHERE "Account"."id" = 'img'    L...
+                                                             ^ in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-08-22 10:08:42 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "img"
+LINE 1: ... "accounts" AS "Account"   WHERE "Account"."id" = 'img'    L...
+                                                             ^</span> in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-22 10:08:42 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  invalid input syntax for integer: "img"
+LINE 1: ... "accounts" AS "Account"   WHERE "Account"."id" = 'img'    L...
+                                                             ^ in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-08-22 10:08:42 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "img"
+LINE 1: ... "accounts" AS "Account"   WHERE "Account"."id" = 'img'    L...
+                                                             ^</span> in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-22 10:08:43 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  invalid input syntax for integer: "img"
+LINE 1: ... "accounts" AS "Account"   WHERE "Account"."id" = 'img'    L...
+                                                             ^ in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-08-22 10:08:43 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "img"
+LINE 1: ... "accounts" AS "Account"   WHERE "Account"."id" = 'img'    L...
+                                                             ^</span> in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-22 10:08:43 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  invalid input syntax for integer: "img"
+LINE 1: ... "accounts" AS "Account"   WHERE "Account"."id" = 'img'    L...
+                                                             ^ in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-08-22 10:08:43 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "img"
+LINE 1: ... "accounts" AS "Account"   WHERE "Account"."id" = 'img'    L...
+                                                             ^</span> in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-22 12:56:11 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  relation "groups_id_seq" does not exist
+LINE 1: SELECT currval('groups_id_seq') as max
+                       ^ in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-08-22 12:56:11 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  relation "groups_id_seq" does not exist
+LINE 1: SELECT currval('groups_id_seq') as max
+                       ^</span> in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-22 12:56:11 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /srv/www/htdocs/cirrus/cake/libs/debugger.php:683) in [/srv/www/htdocs/cirrus/cake/libs/controller/controller.php, line 742]
+2011-08-22 13:05:24 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  relation "groups_id_seq" does not exist
+LINE 1: SELECT currval('groups_id_seq') as max
+                       ^ in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-08-22 13:05:24 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  relation "groups_id_seq" does not exist
+LINE 1: SELECT currval('groups_id_seq') as max
+                       ^</span> in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-22 13:05:25 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /srv/www/htdocs/cirrus/cake/libs/debugger.php:683) in [/srv/www/htdocs/cirrus/cake/libs/controller/controller.php, line 742]
+2011-08-22 13:05:56 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  column User.group_id does not exist
+LINE 1: SELECT "User"."group_id" AS "User__group_id" FROM "users" AS...
+               ^ in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-08-22 13:05:56 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  column User.group_id does not exist
+LINE 1: SELECT "User"."group_id" AS "User__group_id" FROM "users" AS...
+               ^</span> in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-22 13:05:56 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /srv/www/htdocs/cirrus/cake/libs/debugger.php:683) in [/srv/www/htdocs/cirrus/cake/libs/controller/controller.php, line 742]
+2011-08-22 13:16:50 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  null value in column "group_id" violates not-null constraint in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-08-22 13:16:50 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  null value in column "group_id" violates not-null constraint</span> in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-22 13:18:45 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  null value in column "group_id" violates not-null constraint in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-08-22 13:18:45 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  null value in column "group_id" violates not-null constraint</span> in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-22 13:29:28 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  null value in column "group_id" violates not-null constraint in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-08-22 13:29:28 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  null value in column "group_id" violates not-null constraint</span> in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-22 13:39:16 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  null value in column "group_id" violates not-null constraint in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-08-22 13:39:16 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  null value in column "group_id" violates not-null constraint</span> in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-22 13:39:26 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  null value in column "group_id" violates not-null constraint in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-08-22 13:39:26 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  null value in column "group_id" violates not-null constraint</span> in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-22 13:39:29 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  null value in column "group_id" violates not-null constraint in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-08-22 13:39:29 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  null value in column "group_id" violates not-null constraint</span> in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-22 13:40:14 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  relation "users_id_seq" does not exist
+LINE 1: SELECT currval('users_id_seq') as max
+                       ^ in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-08-22 13:40:14 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  relation "users_id_seq" does not exist
+LINE 1: SELECT currval('users_id_seq') as max
+                       ^</span> in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-22 13:40:14 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /srv/www/htdocs/cirrus/cake/libs/debugger.php:683) in [/srv/www/htdocs/cirrus/cake/libs/controller/controller.php, line 742]
+2011-08-22 13:41:12 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  duplicate key value violates unique constraint "users_username_key"
+DETAIL:  Key (username)=(mmaheu) already exists. in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-08-22 13:41:12 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  duplicate key value violates unique constraint "users_username_key"
+DETAIL:  Key (username)=(mmaheu) already exists.</span> in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-22 13:43:12 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 9
+)
+" in [/srv/www/htdocs/cirrus/cake/libs/model/db_acl.php, line 191]
+2011-08-22 13:43:12 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:43:12 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /srv/www/htdocs/cirrus/cake/libs/debugger.php:683) in [/srv/www/htdocs/cirrus/cake/libs/controller/controller.php, line 742]
+2011-08-22 13:43:21 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 9
+)
+" in [/srv/www/htdocs/cirrus/cake/libs/model/db_acl.php, line 191]
+2011-08-22 13:43:21 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:43:21 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /srv/www/htdocs/cirrus/cake/libs/debugger.php:683) in [/srv/www/htdocs/cirrus/cake/libs/controller/controller.php, line 742]
+2011-08-22 13:43:38 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 9
+)
+" in [/srv/www/htdocs/cirrus/cake/libs/model/db_acl.php, line 191]
+2011-08-22 13:43:38 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:43:38 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /srv/www/htdocs/cirrus/cake/libs/debugger.php:683) in [/srv/www/htdocs/cirrus/cake/libs/controller/controller.php, line 742]
+2011-08-22 13:44:10 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 9
+)
+" in [/srv/www/htdocs/cirrus/cake/libs/model/db_acl.php, line 191]
+2011-08-22 13:44:10 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:44:10 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /srv/www/htdocs/cirrus/cake/libs/debugger.php:683) in [/srv/www/htdocs/cirrus/cake/libs/controller/controller.php, line 742]
+2011-08-22 13:55:30 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:30 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:30 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:30 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:30 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:30 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:30 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:30 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:31 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:31 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:31 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:31 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:31 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:31 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:31 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:31 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:31 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:31 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:31 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:32 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:32 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:42 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:55:50 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:56:07 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  duplicate key value violates unique constraint "users_username_key"
+DETAIL:  Key (username)=(mmaheu) already exists. in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-08-22 13:56:07 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  duplicate key value violates unique constraint "users_username_key"
+DETAIL:  Key (username)=(mmaheu) already exists.</span> in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-22 13:56:28 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => Group
+    [Aro0.foreign_key] => 4
+)
+" in [/srv/www/htdocs/cirrus/cake/libs/model/db_acl.php, line 191]
+2011-08-22 13:56:28 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /srv/www/htdocs/cirrus/cake/libs/debugger.php:683) in [/srv/www/htdocs/cirrus/cake/libs/controller/controller.php, line 742]
+2011-08-22 13:58:48 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => Group
+    [Aro0.foreign_key] => 2
+)
+" in [/srv/www/htdocs/cirrus/cake/libs/model/db_acl.php, line 191]
+2011-08-22 13:58:48 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:58:48 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /srv/www/htdocs/cirrus/cake/libs/debugger.php:683) in [/srv/www/htdocs/cirrus/cake/libs/controller/controller.php, line 742]
+2011-08-22 13:59:04 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => Group
+    [Aro0.foreign_key] => 2
+)
+" in [/srv/www/htdocs/cirrus/cake/libs/model/db_acl.php, line 191]
+2011-08-22 13:59:04 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [username] => mmaheu
+            [group_id] => 2
+            [created] => 2011-08-22 13:40:14
+            [modified] => 2011-08-22 13:40:14
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 13:59:04 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /srv/www/htdocs/cirrus/cake/libs/debugger.php:683) in [/srv/www/htdocs/cirrus/cake/libs/controller/controller.php, line 742]
+2011-08-22 14:02:42 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  relation "groups_id_seq" does not exist
+LINE 1: SELECT currval('groups_id_seq') as max
+                       ^ in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-08-22 14:02:42 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  relation "groups_id_seq" does not exist
+LINE 1: SELECT currval('groups_id_seq') as max
+                       ^</span> in [/srv/www/htdocs/cirrus/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-08-22 14:02:42 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /srv/www/htdocs/cirrus/cake/libs/debugger.php:683) in [/srv/www/htdocs/cirrus/cake/libs/controller/controller.php, line 742]
+2011-08-22 14:05:40 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 13
+            [username] => mmaheu
+            [group_id] => 6
+            [created] => 2011-08-22 14:05:03
+            [modified] => 2011-08-22 14:05:03
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 14:05:45 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 13
+            [username] => mmaheu
+            [group_id] => 6
+            [created] => 2011-08-22 14:05:03
+            [modified] => 2011-08-22 14:05:03
+        )
+
+)
+
+Aco: Storages/index in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 14:05:47 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 13
+            [username] => mmaheu
+            [group_id] => 6
+            [created] => 2011-08-22 14:05:03
+            [modified] => 2011-08-22 14:05:03
+        )
+
+)
+
+Aco: Crms/index in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 14:05:50 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 13
+            [username] => mmaheu
+            [group_id] => 6
+            [created] => 2011-08-22 14:05:03
+            [modified] => 2011-08-22 14:05:03
+        )
+
+)
+
+Aco: Accounts/index in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 14:05:52 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 13
+            [username] => mmaheu
+            [group_id] => 6
+            [created] => 2011-08-22 14:05:03
+            [modified] => 2011-08-22 14:05:03
+        )
+
+)
+
+Aco: Davincis/index in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 14:05:55 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 13
+            [username] => mmaheu
+            [group_id] => 6
+            [created] => 2011-08-22 14:05:03
+            [modified] => 2011-08-22 14:05:03
+        )
+
+)
+
+Aco: Storages/index in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 14:06:00 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 13
+            [username] => mmaheu
+            [group_id] => 6
+            [created] => 2011-08-22 14:05:03
+            [modified] => 2011-08-22 14:05:03
+        )
+
+)
+
+Aco: Storages/index in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 14:09:04 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 13
+            [username] => mmaheu
+            [group_id] => 6
+            [created] => 2011-08-22 14:05:03
+            [modified] => 2011-08-22 14:05:03
+        )
+
+)
+
+Aco: Storages/index in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 14:09:05 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 13
+            [username] => mmaheu
+            [group_id] => 6
+            [created] => 2011-08-22 14:05:03
+            [modified] => 2011-08-22 14:05:03
+        )
+
+)
+
+Aco: Pages/display in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 273]
+2011-08-22 14:21:10 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => Group
+    [Aro0.foreign_key] => 1
+)
+" in [/srv/www/htdocs/cirrus/cake/libs/model/db_acl.php, line 191]
+2011-08-22 14:21:10 Warning: Warning (512): DbAcl::allow() - Invalid node in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 361]
+2011-08-22 14:21:10 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => Group
+    [Aro0.foreign_key] => 2
+)
+" in [/srv/www/htdocs/cirrus/cake/libs/model/db_acl.php, line 191]
+2011-08-22 14:21:10 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => Group
+    [Aro0.foreign_key] => 3
+)
+" in [/srv/www/htdocs/cirrus/cake/libs/model/db_acl.php, line 191]
+2011-08-22 14:22:43 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => Group
+    [Aro0.foreign_key] => 10
+)
+" in [/srv/www/htdocs/cirrus/cake/libs/model/db_acl.php, line 191]
+2011-08-22 14:22:43 Warning: Warning (512): DbAcl::allow() - Invalid node in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 361]
+2011-08-22 14:22:43 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => Group
+    [Aro0.foreign_key] => 12
+)
+" in [/srv/www/htdocs/cirrus/cake/libs/model/db_acl.php, line 191]
+2011-08-22 14:24:07 Warning: Warning (512): DbAcl::allow() - Invalid node in [/srv/www/htdocs/cirrus/cake/libs/controller/components/acl.php, line 361]
+2011-08-22 16:58:38 Warning: Warning (512): Method AccessHelper::getmy does not exist in [/srv/www/htdocs/cirrus/cake/libs/view/helper.php, line 154]
+2011-08-22 16:58:40 Warning: Warning (512): Method AccessHelper::getmy does not exist in [/srv/www/htdocs/cirrus/cake/libs/view/helper.php, line 154]
