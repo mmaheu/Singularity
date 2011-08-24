@@ -8,7 +8,7 @@
 <body>
 
 <div id="header">
-		<img src="http://192.168.1.115/singularity/img/Singularity-logo.png" width="" height="" alt="" /> 	<h3></h3>
+		<img src="http://192.168.1.115/singularity/img/Singularity-logo.png" width="230" height="60" alt="" /> 	<h3></h3>
 <?php echo $scripts_for_layout ?>
 </div>
 
