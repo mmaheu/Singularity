@@ -34,6 +34,7 @@
 
                   <br/>
 		  <br/>
+             
 		     Johann Sebastian Bach, organist here at the New Church, appeared and stated that, as he walked home yesterday, fairly late at night ... six students were sitting on the "Langenstein" (Long Stone), and as he passed the town hall, the student Geyersbach went after him with a stick, calling him to account: Why had he [Bach] made abusive remarks about him? He [Bach] answered that he had made no abusive remarks about him, and that no one could prove it, for he had gone his way very quietly
 			<br/>
 			<br/>
