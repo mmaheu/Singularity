@@ -8,6 +8,10 @@ class AccountsController extends AppController {
 	function index() {
 		$this->set('accounts', $this->Account->find('all'));
 	}
+	
+	function sso() {
+		$this->set('accounts', $this->Account->find('all'));
+	}
 
     function view($id = null) {
         $this->Account->id = $id;
